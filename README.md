@@ -4,6 +4,8 @@ Simple, fast and yet powerful PHP router that is easy to get integrated and in a
 
 With simple-router you can create a new project fast, without depending on a framework.
 
+! we forked great https://github.com/skipperbent/simple-php-router to make it compatible with latest php version and create composer packages.
+
 **It only takes a few lines of code to get started:**
 
 ```php
