@@ -125,7 +125,7 @@ ___
 Add the latest version of the simple-router project running this command.
 
 ```
-composer require pecee/simple-router
+composer require redoonetworks/simple-router
 ```
 
 ## Notes
